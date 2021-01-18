@@ -22,8 +22,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build",
-    "predeploy": "npm run build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -31,7 +31,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "http://towerbreaker2200.github.io/flix/",
+  "homepage": "https://towerbreaker2200.github.io/flix/",
   "browserslist": {
     "production": [
       ">0.2%",
