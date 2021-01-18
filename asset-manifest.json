@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/flix/static/js/main.43655c43.chunk.js",
+    "main.js.map": "/flix/static/js/main.43655c43.chunk.js.map",
+    "runtime-main.js": "/flix/static/js/runtime-main.6165f14b.js",
+    "runtime-main.js.map": "/flix/static/js/runtime-main.6165f14b.js.map",
+    "static/js/2.67a85eba.chunk.js": "/flix/static/js/2.67a85eba.chunk.js",
+    "static/js/2.67a85eba.chunk.js.map": "/flix/static/js/2.67a85eba.chunk.js.map",
+    "index.html": "/flix/index.html",
+    "static/js/2.67a85eba.chunk.js.LICENSE.txt": "/flix/static/js/2.67a85eba.chunk.js.LICENSE.txt",
+    "static/media/noPosterImage.png": "/flix/static/media/noPosterImage.495623d8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6165f14b.js",
+    "static/js/2.67a85eba.chunk.js",
+    "static/js/main.43655c43.chunk.js"
+  ]
+}
